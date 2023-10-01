@@ -1,0 +1,56 @@
+/* STYLES */
+
+body {
+    background: #defafb;
+    color: #593b59;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 82vh;
+    margin: auto;
+    max-width: 720px;
+    line-height: normal;
+
+}
+
+main {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 72px;
+    letter-spacing: -2px;
+    line-height: 70px;
+    color: #607D8B;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    text-indent: 50px;
+
+
+
+}
+h2 {
+    color: #defafb;
+    background: #607D8B;
+    border-radius: 26px 4px 26px 4px;
+    font-size: 29px;
+    padding: 26px;
+}
+
+a {
+    border-radius: 5px;
+    border-color: #7e9dad;
+    border-style: solid;
+    background: #7e9dac;
+    text-decoration: none;
+    color: rgb(222 250 251);
+
+}
+
+a:hover {
+    background: pink;
+    color: brown;
+}
+
+
